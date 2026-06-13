@@ -60,6 +60,3 @@ This project aims to analyze the historical NIFTY 50 index data, identify volati
 *   **Volatility Forecasting**: The `forecast` method is used to predict conditional variance (and thus volatility) for a specified horizon (e.g., 30 days).
 *   **Annualized Volatility**: The forecasted conditional variances are annualized (multiplied by 252 for trading days and square-rooted) to provide a more interpretable measure of future volatility.
 ```
-git add README.md
-git commit -m "Add detailed README"
-git push
